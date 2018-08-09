@@ -6,6 +6,9 @@ import static org.junit.Assert.assertNotEquals;
 import org.junit.Before;
 import org.junit.Test;
 
+import com.mittalvk.learning.datastructure.base.BaseQueue;
+import com.mittalvk.learning.datastructure.impl.Queue;
+
 public class QueueTest {
 	
 	 BaseQueue<String> queueTest;

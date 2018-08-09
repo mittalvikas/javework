@@ -1,4 +1,6 @@
-package com.mittalvk.learning.datastructure;
+package com.mittalvk.learning.datastructure.impl;
+
+import com.mittalvk.learning.datastructure.base.BaseQueue;
 
 public class Queue<T> implements BaseQueue<T> {
 	

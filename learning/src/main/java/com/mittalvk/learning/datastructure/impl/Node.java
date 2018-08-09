@@ -1,4 +1,4 @@
-package com.mittalvk.learning.datastructure;
+package com.mittalvk.learning.datastructure.impl;
 
 /**
  * 
