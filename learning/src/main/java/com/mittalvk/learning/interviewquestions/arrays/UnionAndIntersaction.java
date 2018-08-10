@@ -28,6 +28,11 @@ public class UnionAndIntersaction {
         
 	}
 
+	/*
+	 * Use 2 pointers one for each array
+	 * if element of one array is lesser then the other the move that pointer or the other array pointer.
+	 * increment both the pointers in case of same element and these same numbers will be collected in intersaction
+	 */
 	
 	private static void intersaction(int[] arr1, int[] arr2) {
 		int i=0,j=0;
@@ -49,6 +54,11 @@ public class UnionAndIntersaction {
 		
 	}
 
+	/*
+	 * Use 2 pointers one for each array
+	 * if element of one array is lesser then the other the move that pointer or the other array pointer.
+	 * increment both the pointers in case of same element
+	 */
 
 	private static void union(int[] arr1, int[] arr2) {
 		int i=0,j=0;

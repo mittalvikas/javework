@@ -31,6 +31,12 @@ public class MiniumDistance {
 		
 	}
 
+	
+	/*
+	 * Iterate arr only once
+	 * O(n) complexity
+	 * iterate array and record the x or y in some variable and check further for the another number. and if total steps are less than previos recoderded the change it otherwise at the it will be answer.
+	 */
 	private static void findMinuumDistance(int[] arr, int x, int y) {
 		
 		int prev=0;

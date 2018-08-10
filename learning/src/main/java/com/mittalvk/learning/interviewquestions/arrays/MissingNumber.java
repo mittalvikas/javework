@@ -26,6 +26,8 @@ public class MissingNumber {
 	}
 
 	/*
+	 * XOIR of two same numbers will be 0 so XOR of all the array elements with XOR of all the numbers from 1-n shouild be 0.
+	 * If any number is missing then remaining number will be the missing number.
 	 * 
 	 */
 	

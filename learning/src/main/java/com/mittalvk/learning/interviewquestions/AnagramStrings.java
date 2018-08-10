@@ -29,6 +29,10 @@ public class AnagramStrings {
 		
 		
 	}
+	
+	/*
+	 * Simple solution is sort both the string and after sorting both the string should be same
+	 */
 
 	private static boolean checkAnagram(String str1, String str2) {
 		

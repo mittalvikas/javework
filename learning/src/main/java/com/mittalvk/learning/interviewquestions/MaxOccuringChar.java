@@ -32,7 +32,7 @@ public class MaxOccuringChar {
 			}
 			
 		}
-System.out.println("Ansert:"+answer);
+System.out.println("Anser:"+answer);
 	}
 
 }
